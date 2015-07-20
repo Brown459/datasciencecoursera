@@ -1,2 +1,2 @@
 ## This Is Markdown
-**How to set up git 
+*How to set up git 
